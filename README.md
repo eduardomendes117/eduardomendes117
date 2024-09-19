@@ -41,3 +41,5 @@ Olá, meu nome é Eduardo. Sou desenvolvedor web especializado em front-end. Ten
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomendes117&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardomendes117&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/eduardomendes117/eduardomendes117/blob/output/github-contribution-grid-snake.svg)
