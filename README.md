@@ -34,4 +34,4 @@ Sou desenvolvedor web especializado em front-end. Tenho experiência em HTML, CS
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardomendes117&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/eduardomendes117/eduardomendes117/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/eduardomendes117/eduardomendes117/blob/output/github-contribution-grid-snake.svg)
