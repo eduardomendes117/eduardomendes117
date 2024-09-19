@@ -18,15 +18,6 @@ Sou desenvolvedor web especializado em front-end. Tenho experiência em HTML, CS
 </p>
 
 <p align="left">
-  💼 Ferramentas:
-  <br>
-  <br>
-  
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="JAVASCRIPT"/>
-  
-</p>
-
-<p align="left">
   ✉️ Contato:
 </p>
 
