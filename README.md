@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 # Olá, sou o Eduardo.
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 Sou desenvolvedor web especializado em front-end. Tenho experiência em HTML, CSS e JavaScript, crio interfaces de usuário intuitivas e responsivas. Busco sempre aprimorar minhas habilidades e acompanhar as tendências do mercado. Estou aberto a novas oportunidades e desafios em projetos web.
