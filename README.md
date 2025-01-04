@@ -33,6 +33,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-eduardomendesfront-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-mendes-26538030b/)](https://www.linkedin.com/in/eduardo-mendes-26538030b/)
-[![Gmail Badge](https://img.shields.io/badge/-eduardo12mendes2016@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo12mendes2016@gmail.com)](mailto:eduardo12mendes2016@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/eduardomendes117)
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-mendes-26538030b/)](https://www.linkedin.com/in/eduardo-mendes-26538030b/)
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardo12mendes2016@gmail.com)](mailto:eduardo12mendes2016@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/eduardo?label=follow&style=social)](https://github.com/eduardomendes117)
