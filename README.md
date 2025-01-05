@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando React na Alura.
+- 🎓 Estudando na Alura.
 - 🌱 Aprendendo mais sobre Next.js e React.js.
 
 ## Minhas Skills
