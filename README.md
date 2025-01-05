@@ -1,4 +1,4 @@
-## Olá 👋! Meu nome é Eduardo
+<h1>Olá 👋! Meu nome é Eduardo</h1> 
 
 ## Sobre mim
 
